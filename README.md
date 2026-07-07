@@ -1,2 +1,115 @@
 # resume
-hi hlo
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Resume - Hruthikroy Yantrapati</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 30px;
+            line-height: 1.5;
+        }
+        h1, h2 {
+            text-align: center;
+        }
+        h1 {
+            text-decoration: underline;
+        }
+        .section-title {
+            margin-top: 20px;
+            font-size: 20px;
+            border-bottom: 1px solid #000;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Resume</h1>
+
+    <!-- Contact Info -->
+    <p><strong>Name:</strong> Hruthikroy Yantrapati</p>
+    <p><strong>Address:</strong> Tadepalligudem, Andhra Pradesh, India</p>
+    <p><strong>Phone:</strong> +91-XXXXXXXXXX</p>
+    <p><strong>Email:</strong> yourmail@gmail.com</p>
+
+    <!-- Objective -->
+    <h2 class="section-title">Career Objective</h2>
+    <p>
+        Second-year B.Tech engineering student seeking internship/entry-level opportunities
+        to apply classroom knowledge in real projects and improve technical and problem-solving skills.
+    </p>
+
+    <!-- Education -->
+    <h2 class="section-title">Education</h2>
+    <ul>
+        <li>
+            <strong>B.Tech in [Your Branch]</strong> – [College Name], [University Name], India<br>
+            2nd Year, Expected Graduation: 20XX<br>
+            CGPA: X.X / XX%
+        </li>
+        <li>
+            <strong>Intermediate (12th)</strong> – [College Name], [Board], [City]<br>
+            Year of Completion: 20XX, Percentage: XX%
+        </li>
+        <li>
+            <strong>SSC (10th)</strong> – [School Name], [City]<br>
+            Year of Completion: 20XX, Percentage: XX%
+        </li>
+    </ul>
+
+    <!-- Skills -->
+    <h2 class="section-title">Technical Skills</h2>
+    <ul>
+        <li>Programming: Java, SQL</li>
+        <li>Tools/Platforms: Bluestacks, CodeChef, VS Code/IntelliJ</li>
+        <li>Concepts: Discrete Mathematics basics, Database basics (DDL, DML)</li>
+        <li>Other: MS Word, PowerPoint, basic Excel</li>
+    </ul>
+
+    <!-- Projects -->
+    <h2 class="section-title">Academic Projects</h2>
+    <ul>
+        <li>
+            <strong>Student Records Manager (Java)</strong><br>
+            Console-based Java project to manage student details using file handling.
+        </li>
+        <li>
+            <strong>Shop Inventory Database (SQL)</strong><br>
+            Simple database for storing and querying product and stock details.
+        </li>
+    </ul>
+
+    <!-- Achievements -->
+    <h2 class="section-title">Achievements</h2>
+    <ul>
+        <li>Solved ___ problems on CodeChef.</li>
+        <li>Participated in college coding/technical events.</li>
+        <li>Any academic award / scholarship.</li>
+    </ul>
+
+    <!-- Extra -->
+    <h2 class="section-title">Extracurricular Activities</h2>
+    <ul>
+        <li>Watching anime and Korean dramas, following IPL cricket.</li>
+        <li>Member of college clubs (coding club / tech club, etc.).</li>
+        <li>Volunteered in college fests/events.</li>
+    </ul>
+
+    <!-- Personal Details -->
+    <h2 class="section-title">Personal Details</h2>
+    <p><strong>Date of Birth:</strong> DD/MM/YYYY</p>
+    <p><strong>Languages:</strong> Telugu, Hindi, English</p>
+    <p><strong>Location:</strong> Tadepalligudem, Andhra Pradesh, India</p>
+
+    <!-- Declaration -->
+    <h2 class="section-title">Declaration</h2>
+    <p>
+        I hereby declare that the above information is true to the best of my knowledge.
+    </p>
+    <p><strong>Place:</strong> Tadepalligudem</p>
+    <p><strong>Date:</strong> </p>
+    <p><strong>Signature:</strong> (if printed)</p>
+
+</body>
+</html>
